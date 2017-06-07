@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.6
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{8D1AFEA4-3536-444F-83BF-F43A35ABAFBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NODFinder", "NODFinder\NODFinder.csproj", "{81E56A94-FC80-411B-BB93-F10A155E82FD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D1AFEA4-3536-444F-83BF-F43A35ABAFBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D1AFEA4-3536-444F-83BF-F43A35ABAFBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D1AFEA4-3536-444F-83BF-F43A35ABAFBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D1AFEA4-3536-444F-83BF-F43A35ABAFBC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
