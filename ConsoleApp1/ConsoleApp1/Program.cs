@@ -34,7 +34,7 @@ namespace ConsoleApp1
                 Console.Write(y[i] + " ");
             }
             Console.Write("чисел равно:" + ans);
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
