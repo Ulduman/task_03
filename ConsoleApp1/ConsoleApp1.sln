@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp1", "ConsoleApp1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NODFinder", "NODFinder\NODFinder.csproj", "{81E56A94-FC80-411B-BB93-F10A155E82FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject1", "UnitTestProject1\UnitTestProject1.csproj", "{3615ED80-DB31-41E7-8325-CA0027297FBC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{81E56A94-FC80-411B-BB93-F10A155E82FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3615ED80-DB31-41E7-8325-CA0027297FBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3615ED80-DB31-41E7-8325-CA0027297FBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3615ED80-DB31-41E7-8325-CA0027297FBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3615ED80-DB31-41E7-8325-CA0027297FBC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
